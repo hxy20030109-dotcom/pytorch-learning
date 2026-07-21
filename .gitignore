@@ -16,6 +16,7 @@ env/
 .vscode/
 .idea/
 .codex/
+AGENTS.md
 .DS_Store
 Thumbs.db
 
